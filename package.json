@@ -9,7 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@github/models": "^0.0.1-beta.2",
+    "@vercel/postgres": "^0.10.0",
+    "ai": "^6.0.105",
     "next": "16.1.6",
+    "pg": "^8.19.0",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
